@@ -1,5 +1,4 @@
-[
-{
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
@@ -7,7 +6,7 @@
     "sha256_cert_fingerprints":
     ["4F:D1:EC:E5:25:54:EC:D0:3F:8F:3A:57:3A:0F:38:7D:D0:77:38:55:0C:56:DC:6B:96:C4:C8:26:68:FE:84:6A"]
   }
-}
+},
 {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
@@ -16,5 +15,4 @@
     "sha256_cert_fingerprints":
     ["4F:D1:EC:E5:25:54:EC:D0:3F:8F:3A:57:3A:0F:38:7D:D0:77:38:55:0C:56:DC:6B:96:C4:C8:26:68:FE:84:6A"]
   }
-}
-]
+}]
